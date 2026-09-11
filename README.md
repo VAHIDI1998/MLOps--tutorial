@@ -1,2 +1,2 @@
 # MLOps--tutorial
-This  repo for srart mlops projectss
+This  repo for start mlops projectss
